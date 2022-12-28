@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "488298911061",
+    "project_id": "finans-proje",
+    "storage_bucket": "finans-proje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488298911061:android:c1b3b1e3e5e94c25720bdc",
+        "android_client_info": {
+          "package_name": "com.example.cryptotracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488298911061-02b9korsmmfb4d7l00dd4jjrs2182b3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cryptotracker",
+            "certificate_hash": "1b5fd7861825508e38a6fd6fd0fe7a4d1c6a02f9"
+          }
+        },
+        {
+          "client_id": "488298911061-9e2ejlddr04pba5n1v3ib54ngh9n9dtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArUb9imvkcvF2EzH1RcPIgpXLoor7Fhow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488298911061-9e2ejlddr04pba5n1v3ib54ngh9n9dtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

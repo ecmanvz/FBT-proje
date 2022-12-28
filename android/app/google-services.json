@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "754828402854",
+    "project_id": "coinsepeti-98e9d",
+    "storage_bucket": "coinsepeti-98e9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754828402854:android:77e917802f7f35d3ded467",
+        "android_client_info": {
+          "package_name": "com.ziroo.cryptoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754828402854-eipn9hi49ve9jmr4q8a3rrb6sik5to45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ziroo.cryptoapp",
+            "certificate_hash": "1b5fd7861825508e38a6fd6fd0fe7a4d1c6a02f9"
+          }
+        },
+        {
+          "client_id": "754828402854-agljt94nq254d96gbjuivo2ph39f9c8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe9kxqzIV6E9RdcoYE_bj1yHkjF4fNM40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754828402854-agljt94nq254d96gbjuivo2ph39f9c8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
